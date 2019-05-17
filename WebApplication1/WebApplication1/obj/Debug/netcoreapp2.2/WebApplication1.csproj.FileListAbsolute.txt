@@ -21,3 +21,10 @@ C:\Users\windowspc\source\repos\NetCoreWebApi\WebApplication1\WebApplication1\ob
 C:\Users\windowspc\source\repos\NetCoreWebApi\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
 C:\Users\windowspc\source\repos\NetCoreWebApi\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorTargetAssemblyInfo.cache
 C:\Users\windowspc\source\repos\NetCoreWebApi\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Users\windowspc\source\repos\NetCoreWebApi\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.pdb
+C:\Users\windowspc\source\repos\NetCoreWebApi\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.Views.dll
+C:\Users\windowspc\source\repos\NetCoreWebApi\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.Views.pdb
+C:\Users\windowspc\source\repos\NetCoreWebApi\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.Views.pdb
+C:\Users\windowspc\source\repos\NetCoreWebApi\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.dll
+C:\Users\windowspc\source\repos\NetCoreWebApi\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.pdb
+C:\Users\windowspc\source\repos\NetCoreWebApi\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csproj.CopyComplete
